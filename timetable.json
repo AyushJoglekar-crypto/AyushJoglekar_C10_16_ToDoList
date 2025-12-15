@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Math Class ",
+    "day": "Monday",
+    "start": "09:00",
+    "end": "10:00",
+    "category": "Personal"
+  },
+  {
+    "name": "Sports",
+    "day": "Monday",
+    "start": "10:00",
+    "end": "12:30",
+    "category": "College"
+  }
+]
