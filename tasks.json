@@ -1,0 +1,96 @@
+{
+    "tasks": [
+        {
+            "id": "333cfb46-eaad-4644-8750-2995b5cfa6c9",
+            "title": "Work",
+            "deadline": "2025-08-06",
+            "priority": "Medium",
+            "category": "School",
+            "done": true,
+            "created_at": "2025-12-10"
+        },
+        {
+            "id": "47d74db2-21f8-497e-951b-b0025fbe0b92",
+            "title": "HWI",
+            "deadline": "2025-07-06",
+            "priority": "Medium",
+            "category": "School",
+            "done": true,
+            "created_at": "2025-12-10"
+        },
+        {
+            "id": "ba0e2fb8-1883-4907-a007-8046a64042be",
+            "title": "eojfio",
+            "deadline": "1806-08-07",
+            "priority": "Medium",
+            "category": "hello",
+            "done": true,
+            "created_at": "2025-12-10"
+        },
+        {
+            "id": "ce55a692-8a12-43ed-ad58-2327d019f1d7",
+            "title": "Soccer",
+            "deadline": "2025-12-24",
+            "priority": 0,
+            "category": "College",
+            "done": false,
+            "created_at": "2025-12-14"
+        },
+        {
+            "id": "4785e780-15db-45df-8043-15876a672e27",
+            "title": "Study",
+            "deadline": "2025-12-15",
+            "priority": 1,
+            "category": "College",
+            "done": false,
+            "created_at": "2025-12-14"
+        },
+        {
+            "id": "5b42c1e0-b429-4a6d-be11-3119bdf52f1f",
+            "title": "Take a walk",
+            "deadline": "2025-12-23",
+            "priority": 1,
+            "category": "General",
+            "done": false,
+            "created_at": "2025-12-14"
+        },
+        {
+            "id": "90f8c0ab-32d2-4c1d-95e8-6f2f94dea025",
+            "title": "Study",
+            "deadline": "2025-12-14",
+            "priority": 2,
+            "category": "College",
+            "done": false,
+            "created_at": "2025-12-14"
+        },
+        {
+            "id": "d75d474c-47bd-433f-85a7-33b67ded7941",
+            "title": "Learn a new skill",
+            "deadline": "2025-12-15",
+            "priority": 1,
+            "category": "Personal",
+            "done": false,
+            "created_at": "2025-12-15"
+        },
+        {
+            "id": "6e8c65be-f410-4c18-bce4-31858811de28",
+            "title": "Take a nap",
+            "deadline": "2025-12-15",
+            "priority": 1,
+            "category": "Personal",
+            "done": false,
+            "created_at": "2025-12-15"
+        },
+        {
+            "id": "e58fd501-0a16-43e5-b009-c34d6f553444",
+            "title": "Enquire about hackathon",
+            "deadline": "2025-12-15",
+            "priority": 1,
+            "category": "General",
+            "done": false,
+            "created_at": "2025-12-15"
+        }
+    ],
+    "streak": 1,
+    "last_done_date": "2025-12-13"
+}
