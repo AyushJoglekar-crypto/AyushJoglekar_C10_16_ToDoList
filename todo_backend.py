@@ -133,6 +133,8 @@ class TaskManager:
 
         except FileNotFoundError:
             self.save()
+    def get_tasks_by_date(self, date_str):
+        return [t for t in self.tasks if t.deadline == date_str]
 
 tm = TaskManager()
 
